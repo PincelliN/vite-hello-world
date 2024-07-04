@@ -1,10 +1,13 @@
 <script setup>
-import Title from './components/Title.vue'
+import Jumbodron from './components/Jumbodron.vue';
+import Jumbo from './components/Jumbodron.vue'
+
+
 </script>
 
 <template>
   
-  <Title />
+  <Jumbodron />
 </template>
 
 <style scoped>
